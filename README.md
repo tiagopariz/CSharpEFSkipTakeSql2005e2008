@@ -1,7 +1,6 @@
+# C#: usando Skip e Take com Entity Framework Core e SQL Server 2005 ou 2008
 
 <!-- TOC -->autoauto- [C#: usando Skip e Take com Entity Framework Core e SQL Server 2005 ou 2008](#c-usando-skip-e-take-com-entity-framework-core-e-sql-server-2005-ou-2008)auto    - [Requisitos](#requisitos)auto    - [Simulando o problema](#simulando-o-problema)auto    - [Ajustando o DbContext](#ajustando-o-dbcontext)auto    - [Observação](#observação)auto    - [Blog](#blog)autoauto<!-- /TOC -->
-
-# C#: usando Skip e Take com Entity Framework Core e SQL Server 2005 ou 2008
 
 ## Requisitos
 
@@ -304,8 +303,12 @@ Name: Falcão     | Age: 18       | Id: 508e095c-7437-471c-8b67-198e43bd38b6
 
 ## Observação
 
+<<<<<<< HEAD
 Não há suporte para SQL Server 2005 e 2008 a partir do .NET Core 3.0.
 
 ## Blog 
 
 <https://blog.tiagopariz.com/c-usando-skip-e-take-com-entity-framework-core-e-sql-server-2005-ou-2008>
+=======
+Não há suporte para SQL Server 2005 e 2008 a partir do .NET Core 3.0.
+>>>>>>> aa0881fa7a7d14cf2ce73e7e9004640813cb243b
