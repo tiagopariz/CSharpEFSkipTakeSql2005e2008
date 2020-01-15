@@ -1,6 +1,6 @@
 # C#: usando Skip e Take com Entity Framework Core e SQL Server 2005 ou 2008
 
-<!-- TOC -->
+<!-- TOC --><!-- /TOC -->
 
 ## Requisitos
 
