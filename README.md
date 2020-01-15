@@ -1,6 +1,6 @@
 # C#: usando Skip e Take com Entity Framework Core e SQL Server 2005 ou 2008
 
-<!-- TOC -->autoauto- [C#: usando Skip e Take com Entity Framework Core e SQL Server 2005 ou 2008](#c-usando-skip-e-take-com-entity-framework-core-e-sql-server-2005-ou-2008)auto    - [Requisitos](#requisitos)auto    - [Simulando o problema](#simulando-o-problema)auto    - [Ajustando o DbContext](#ajustando-o-dbcontext)auto    - [Observação](#observação)auto    - [Blog](#blog)autoauto<!-- /TOC -->
+<!-- TOC -->
 
 ## Requisitos
 
