@@ -3,8 +3,9 @@
 - [Requisitos](#requisitos)
 - [Simulando o problema](#simulando-o-problema)
 - [Ajustando o DbContext](#ajustando-o-dbcontext)
-- [Observação](#observação)
-- [Blog](#blog)
+- [.NET Core 3.0 ou superior](#net-core-30-ou-superior)
+- [Veja no blog](#veja-no-blog)
+
 
 ## Requisitos
 
@@ -305,7 +306,7 @@ Name: Fabiano    | Age: 18       | Id: eb8ab1a6-2513-438d-b7cb-a106d233f533
 Name: Falcão     | Age: 18       | Id: 508e095c-7437-471c-8b67-198e43bd38b6
 ```
 
-## Observação
+## .NET Core 3.0 ou superior
 
 Não há suporte para SQL Server 2005 e 2008 a partir do .NET Core 3.0.
 
